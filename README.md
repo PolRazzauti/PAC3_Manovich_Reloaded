@@ -8,4 +8,4 @@ Tal com ens diu Manovich, la hibridació dels medis és la combinació de dos o 
 
 Anem ara a mostrar dos exemples més però propis de la hibridació de medis de Manovich. En aquest document parlarem de la hibridació del ***GPS*** i del videjoc ***Uncharted 4***. Començarem parlant del sistema ***Global Positioning System*** (GPS):
 
-A hores d'ara de ben segur que tothom coneix el sistema ***GPS***. De l'anglès ***Global Positioning System***, és un sistema de que permet localitzar qualsevol element situat al planeta Terra amb un precisió de centímetres.
+A hores d'ara de ben segur que tothom coneix el sistema ***GPS***. De l'anglès ***Global Positioning System***, és un sistema que permet localitzar qualsevol element situat al planeta Terra amb un precisió de centímetres.
