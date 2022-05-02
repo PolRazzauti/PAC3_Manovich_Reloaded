@@ -1,6 +1,6 @@
 # PAC3_Manovich_Reloaded
 Pol Razzauti Ibañez, Cultura Digital curs 2022 UOC.  
-Assaig sobre la hibridació del sistema GPS i del videjoc Uncharted 4.  
+Assaig sobre la hibridació del sistema GPS i del videojoc Uncharted 4.  
   
 # Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació.  
   
